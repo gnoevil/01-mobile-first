@@ -1,5 +1,8 @@
 /* TODO: Add a rule for images, so they never exceed their container's width. */
-
+img {
+  background-size: cover;
+  max-width: 100%;
+}
 
 
 body {
